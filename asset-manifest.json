@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-download-poc/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-download-poc/static/js/main.e4319983.chunk.js",
+    "main.js.map": "/react-download-poc/static/js/main.e4319983.chunk.js.map",
+    "runtime-main.js": "/react-download-poc/static/js/runtime-main.6ed8d03d.js",
+    "runtime-main.js.map": "/react-download-poc/static/js/runtime-main.6ed8d03d.js.map",
+    "static/js/2.a42dc961.chunk.js": "/react-download-poc/static/js/2.a42dc961.chunk.js",
+    "static/js/2.a42dc961.chunk.js.map": "/react-download-poc/static/js/2.a42dc961.chunk.js.map",
+    "static/js/3.63dcec9c.chunk.js": "/react-download-poc/static/js/3.63dcec9c.chunk.js",
+    "static/js/3.63dcec9c.chunk.js.map": "/react-download-poc/static/js/3.63dcec9c.chunk.js.map",
+    "index.html": "/react-download-poc/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-download-poc/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a42dc961.chunk.js.LICENSE.txt": "/react-download-poc/static/js/2.a42dc961.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ed8d03d.js",
+    "static/js/2.a42dc961.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e4319983.chunk.js"
+  ]
+}
